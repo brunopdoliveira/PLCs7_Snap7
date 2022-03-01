@@ -1,0 +1,23 @@
+﻿#---------------------- INTEGRACAO TIA PORTAL PYTHON----------------------#
+
+1. Instalar Pycharm (IDE PYTHON)
+
+2. Baixar interpretador python em "Python.org", versão mais recente
+
+3. De o comando "python" no cmd para ver versão do interpretador
+
+4. De o comando "pip -V" no cmd para ver versão do interpretador
+
+4. Baixar protocolo snap7. Abra cmd como administrador, digite "pip install python-snap7"
+
+5. Baixe a pasta de arquivos do snap7 em: https://sourceforge.net/projects/snap7/files/
+
+6. Acesse pasta que baixou, copie o arquivo .dll e cole em : C:\Windows\System32
+
+7. Para testar a comunicao entre python e PLCSiemens rode o script abaixo no pycharm.
+https://github.com/brunopdoliveira/PLCs7_Snap7/blob/main/PLC_Connection_Snap7.py
+
+**REFERENCES**
+https://www.youtube.com/watch?v=BKnK4AT_WKs&t=755s
+https://www.youtube.com/watch?v=oDkcdnx5Bus&t=11s
+
