@@ -44,5 +44,8 @@ print(t)
 
 #Bruno Oliveira
 
+#--Refences
+# https://python-snap7.readthedocs.io/en/latest/API/client.html
+
 
 
